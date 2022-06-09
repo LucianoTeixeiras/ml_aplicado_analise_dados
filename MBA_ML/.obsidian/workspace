@@ -7,8 +7,11 @@
         "id": "4d5f4204a2c8f043",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Unyleya/01-UN_04-APRESENTAÇÃO.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 554
   },
   "right": {
     "id": "a1192195858b9117",
@@ -65,13 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "Unyleya/01-UN_04-APRESENTAÇÃO.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -79,8 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "4d5f4204a2c8f043",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Unyleya/01-UN_04-APRESENTAÇÃO.md",
+    "Unyleya/01-UN_04_CAP_02-ÉTICA.md",
+    "Unyleya/01-UN_04_CAP_01-AUSÊNCIA DE PROPÓSITO, AUSÊNCIA DE SIGNIFICADO NA VIDA.md",
+    "Unyleya/01-UN_03-APRESENTAÇÃO GERAL.md",
+    "Unyleya/01-UN_03_CAP_04-INOVAÇÃO.md",
+    "Unyleya/01-UN_03_CAP_03-O EMPREENDEDORISMO NA VIDA.md",
+    "Unyleya/01-UN_03_CAP_02-O EMPREENDEDOR.md",
+    "Unyleya/01-UNIDADE-04.md",
+    "Unyleya/01-UN_03_CAP_01-EMPREENDER.md",
+    "Unyleya/01-UN_02-APRESENTAÇÃO GERAL.md"
+  ]
 }

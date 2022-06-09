@@ -7,3 +7,5 @@ Repositório destinado aos tópicos: Pós-Graduação Lato Sensu em MACHINE LEAR
 * Deep Learning e Reinforcement Learning
 * Tipos de Aprendizagem e Sistemas de Recomendação
 * Análise e Visualização de Dados com Python
+
+[[Desenvolvimento Profissional]]
