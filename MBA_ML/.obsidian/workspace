@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26cd635c2326229c",
+        "id": "7915d0c02f30c135",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Unyleya/00-MACHINE LEARNING APLICADO À ANÁLISE DE DADOS/MACHINE LEARNING APLICADO À ANÁLISE DE DADOS.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -42,60 +39,87 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "6ba6e89866f61cd0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 652
+    "width": 518
   },
   "right": {
     "id": "a1192195858b9117",
     "type": "split",
     "children": [
       {
-        "id": "7d5576fec017343a",
+        "id": "874aa58173871b2d",
         "type": "tabs",
         "children": [
           {
-            "id": "bb242c190ca2e354",
+            "id": "ee80543af8120ab6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b02266df31a5e15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d60eb93d9980ac12",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unyleya/00-MACHINE LEARNING APLICADO À ANÁLISE DE DADOS/MACHINE LEARNING APLICADO À ANÁLISE DE DADOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 474
   },
-  "active": "26cd635c2326229c",
+  "active": "7915d0c02f30c135",
   "lastOpenFiles": [
+    "Unyleya/03-Text_Mining/UNIDADE_02/CAP_03-Removendo a pontuação dos textos.md",
+    "Unyleya/03-Text_Mining/UNIDADE_02/CAP_02-Aplicando tokenização por espaços e pontuação.md",
+    "Unyleya/03-Text_Mining/Mineração de Texto e Processamento de Linguagem Natural.md",
+    "Unyleya/02-ML_Python/Fundamentos de Machine Learning com Python.md",
     "Unyleya/00-MACHINE LEARNING APLICADO À ANÁLISE DE DADOS/MACHINE LEARNING APLICADO À ANÁLISE DE DADOS.md",
     "Unyleya/01-Desenvolvimento Profissional/Desenvolvimento Profissional.md",
     "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/01-UN_04_CAP_01-AUSÊNCIA DE PROPÓSITO, AUSÊNCIA DE SIGNIFICADO NA VIDA.md",
     "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/01-UN_04_CAP_02-ÉTICA.md",
     "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/01-UN_04-APRESENTAÇÃO.md",
-    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/UNIDADE-04.md",
-    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-03/01-UN_03-APRESENTAÇÃO GERAL.md",
-    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-03/UNIDADE-03.md",
-    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-03/01-UN_03_CAP_01-EMPREENDER.md",
-    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-03/01-UN_03_CAP_02-O EMPREENDEDOR.md"
+    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/UNIDADE-04.md"
   ]
 }

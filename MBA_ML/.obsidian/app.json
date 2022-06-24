@@ -1,4 +1,11 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "rightToLeft": true,
+  "spellcheck": true,
+  "vimMode": false,
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview"
 }

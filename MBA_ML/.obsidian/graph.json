@@ -6,17 +6,46 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Unyleya/01-Desenvolvimento Profissional\"",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Unyleya/02-ML_Python",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Unyleya/03-Text_Mining",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "section:(Machine)",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 2,
-  "nodeSizeMultiplier": 1.44887640449438,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 2.2,
+  "nodeSizeMultiplier": 2.03043176694989,
+  "lineSizeMultiplier": 4.72216056875325,
   "collapse-forces": true,
   "centerStrength": 0.0892857142857143,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.13873223932666148,
+  "linkDistance": 338,
+  "scale": 0.19450022690616045,
   "close": false
 }
