@@ -7,8 +7,11 @@
         "id": "7915d0c02f30c135",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Unyleya/03-Text_Mining/UNIDADE_02/UNIDADE-02.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -83,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unyleya/03-Text_Mining/UNIDADE_02/UNIDADE-02.md"
+              }
             }
           },
           {
@@ -92,13 +97,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unyleya/03-Text_Mining/UNIDADE_02/UNIDADE-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -111,6 +117,8 @@
   },
   "active": "7915d0c02f30c135",
   "lastOpenFiles": [
+    "Unyleya/03-Text_Mining/UNIDADE_02/UNIDADE-02.md",
+    "Unyleya/03-Text_Mining/UNIDADE_02/CAP_03-Removendo a pontuação dos textos 1.md",
     "Unyleya/03-Text_Mining/UNIDADE_02/CAP_03-Removendo a pontuação dos textos.md",
     "Unyleya/03-Text_Mining/UNIDADE_02/CAP_02-Aplicando tokenização por espaços e pontuação.md",
     "Unyleya/03-Text_Mining/Mineração de Texto e Processamento de Linguagem Natural.md",
@@ -118,8 +126,6 @@
     "Unyleya/00-MACHINE LEARNING APLICADO À ANÁLISE DE DADOS/MACHINE LEARNING APLICADO À ANÁLISE DE DADOS.md",
     "Unyleya/01-Desenvolvimento Profissional/Desenvolvimento Profissional.md",
     "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/01-UN_04_CAP_01-AUSÊNCIA DE PROPÓSITO, AUSÊNCIA DE SIGNIFICADO NA VIDA.md",
-    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/01-UN_04_CAP_02-ÉTICA.md",
-    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/01-UN_04-APRESENTAÇÃO.md",
-    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/UNIDADE-04.md"
+    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/01-UN_04_CAP_02-ÉTICA.md"
   ]
 }
