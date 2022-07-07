@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unyleya/03-Text_Mining/UNIDADE_02/UNIDADE-02.md",
-            "mode": "source"
+            "file": "Unyleya/03-Text_Mining/UNIDADE_03/CAP_09 - Refinando o tratamento - Parte II.md",
+            "mode": "preview"
           }
         }
       }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unyleya/03-Text_Mining/UNIDADE_02/UNIDADE-02.md"
+                "file": "Unyleya/03-Text_Mining/UNIDADE_03/CAP_09 - Refinando o tratamento - Parte II.md"
               }
             }
           },
@@ -97,14 +97,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unyleya/03-Text_Mining/UNIDADE_02/UNIDADE-02.md",
+                "file": "Unyleya/03-Text_Mining/UNIDADE_03/CAP_09 - Refinando o tratamento - Parte II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -113,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474
+    "width": 474,
+    "collapsed": true
   },
   "active": "7915d0c02f30c135",
   "lastOpenFiles": [
-    "Unyleya/03-Text_Mining/UNIDADE_02/UNIDADE-02.md",
-    "Unyleya/03-Text_Mining/UNIDADE_02/CAP_03-Removendo a pontuação dos textos 1.md",
-    "Unyleya/03-Text_Mining/UNIDADE_02/CAP_03-Removendo a pontuação dos textos.md",
-    "Unyleya/03-Text_Mining/UNIDADE_02/CAP_02-Aplicando tokenização por espaços e pontuação.md",
-    "Unyleya/03-Text_Mining/Mineração de Texto e Processamento de Linguagem Natural.md",
-    "Unyleya/02-ML_Python/Fundamentos de Machine Learning com Python.md",
-    "Unyleya/00-MACHINE LEARNING APLICADO À ANÁLISE DE DADOS/MACHINE LEARNING APLICADO À ANÁLISE DE DADOS.md",
-    "Unyleya/01-Desenvolvimento Profissional/Desenvolvimento Profissional.md",
-    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/01-UN_04_CAP_01-AUSÊNCIA DE PROPÓSITO, AUSÊNCIA DE SIGNIFICADO NA VIDA.md",
-    "Unyleya/01-Desenvolvimento Profissional/UNIDADE-04/01-UN_04_CAP_02-ÉTICA.md"
+    "Unyleya/03-Text_Mining/UNIDADE_03/CAP_09 - Refinando o tratamento - Parte II.md",
+    "Unyleya/03-Text_Mining/UNIDADE_03/CAP_08 - Refinando o tratamento - Parte I.md",
+    "Unyleya/03-Text_Mining/UNIDADE_03/CAP_07-Tratando dados da Web com Regex - Parte II.md",
+    "Unyleya/03-Text_Mining/UNIDADE_03/CAP_06-Tratando dados da Web com Regex - Parte I.md",
+    "Unyleya/03-Text_Mining/UNIDADE_03/CAP_05-Acelerando Regex.md",
+    "Unyleya/03-Text_Mining/UNIDADE_03/CAP_04-Regex em python.md",
+    "Unyleya/03-Text_Mining/UNIDADE_03/CAP_03-Regex para enfrentar desafios - Parte II.md",
+    "Unyleya/03-Text_Mining/UNIDADE_03/CAP_02-Regex para enfrentar desafios - Parte I.md",
+    "Unyleya/03-Text_Mining/UNIDADE_03/CAP_01-Modelos de linguagem e suas aplicações.md",
+    "Unyleya/03-Text_Mining/UNIDADE_02/CAP_15-Aplicando a técnica ngram na análise de sentimento.md"
   ]
 }
